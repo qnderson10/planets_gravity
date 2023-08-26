@@ -1,7 +1,7 @@
-// #include <iostream>
-// #include <string>
-// #include <math.h>
-// #include "mpi.h"
+#include <iostream>
+#include <string>
+#include <math.h>
+#include "mpi.h"
 struct Vector3
 {
   double e[3] = {0};
